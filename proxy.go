@@ -1,4 +1,4 @@
-package main
+package grpcjsonproxy
 
 import (
 	"bytes"
@@ -10,7 +10,6 @@ import (
 	"net/http/httputil"
 	"net/url"
 	"time"
-
 	"golang.org/x/net/http2"
 )
 

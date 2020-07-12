@@ -1,4 +1,4 @@
-package main
+package grpcjsonproxy
 
 import (
 	"bytes"
